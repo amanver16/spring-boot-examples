@@ -1,4 +1,4 @@
-#03-SingleResponsibilityPrinciple
+# 03-SingleResponsibilityPrinciple
 
 The project demonstrates the popular software design principle i.e. Single Responsibility Principle. The SRP principle is a part of __S.O.L.I.D.__ principles which represents first letter S. SOLID principle was introduced by **Robert.C Martin** also known as **"Uncle Bob"**. More about [SRP](https://en.wikipedia.org/wiki/Single_responsibility_principle).
 
