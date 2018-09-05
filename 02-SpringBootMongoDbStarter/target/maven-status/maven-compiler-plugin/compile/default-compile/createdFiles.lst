@@ -1,0 +1,3 @@
+com\aman\springboot\controller\StudentController.class
+com\aman\springboot\bean\StudentRepo.class
+com\aman\springboot\repository\StudentRepository.class
