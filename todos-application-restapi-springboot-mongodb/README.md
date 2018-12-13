@@ -17,8 +17,8 @@ This application stores and manipulates a list of todos.
 
 **Server Endpoints :**  
 
-**GET :** localhost:8080/todo/todos
-**POST :** localhost:8080/todo/todos
-**GET :** localhost:8080/todo/GiveToDoIDHere
-**PUT :** localhost:8080/todo/GiveToDoIDHere
-**DEL :** localhost:8080/todo/GiveToDoIDHere
+**GET :** localhost:8080/todo/todos  
+**POST :** localhost:8080/todo/todos  
+**GET :** localhost:8080/todo/GiveToDoIDHere  
+**PUT :** localhost:8080/todo/GiveToDoIDHere  
+**DEL :** localhost:8080/todo/GiveToDoIDHere  
